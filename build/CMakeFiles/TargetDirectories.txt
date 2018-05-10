@@ -1,0 +1,5 @@
+E:/Study/cppnanomsg/build/CMakeFiles/binding.dir
+E:/Study/cppnanomsg/build/CMakeFiles/INSTALL.dir
+E:/Study/cppnanomsg/build/CMakeFiles/RUN_TESTS.dir
+E:/Study/cppnanomsg/build/CMakeFiles/ALL_BUILD.dir
+E:/Study/cppnanomsg/build/CMakeFiles/ZERO_CHECK.dir

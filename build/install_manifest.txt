@@ -1,0 +1,1 @@
+C:/Program Files (x86)/cppnanomsg/include/nanomsg/nn.hpp

@@ -19,11 +19,13 @@
     FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
     IN THE SOFTWARE.
 */
-
+#pragma comment(lib,"Ws2_32.lib")
+#pragma comment(lib,"wsock32.lib")
+#pragma comment(lib, "nanomsg.lib")
 #include "nn.hpp"
 
-#include <nanomsg/pair.h>
-
+//#include <nanomsg/pair.h>
+#include "src/pair.h"
 #include <cassert>
 
 int main ()
